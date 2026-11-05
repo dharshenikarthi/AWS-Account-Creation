@@ -66,6 +66,9 @@ Review your settings and click Create user. Save the console sign-in URL and cre
 
 <img width="1916" height="1081" alt="image" src="https://github.com/user-attachments/assets/c0733048-e4dc-49be-9e1f-d458f0017173" />
 
+<img width="597" height="662" alt="image" src="https://github.com/user-attachments/assets/4e29d7a1-5987-4ba9-8950-f85945f8e41e" />
+
+
 
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
